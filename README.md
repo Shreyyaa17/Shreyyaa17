@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Shreya Gupta
-- 👀 I’m interested in web development.
 - 🌱 I’m currently learning react.
 
 <!---
